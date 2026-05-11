@@ -1,0 +1,21 @@
+Analysis:
+📊 Analysis Ideas:
+Pass/Fail Percentage
+Subject-wise Performance
+Attendance vs Marks Correlation
+Top Performing Students
+
+✅ Visualizations:
+sns.histplot(df['Math_Score'])
+
+sns.scatterplot(
+    x='Attendance',
+    y='Total_Marks',
+    data=df
+)
+
+sns.boxplot(
+    x='Gender',
+    y='Total_Marks',
+    data=df
+)
