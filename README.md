@@ -1,0 +1,204 @@
+# 📊 Data Analysis & Visualization Portfolio
+
+## 📌 Portfolio Overview
+
+This portfolio contains 5 complete data analysis projects developed using Python, Pandas, Matplotlib, Seaborn, and statistical analysis techniques.
+
+The projects demonstrate skills in:
+- Data Cleaning
+- Data Visualization
+- Statistical Analysis
+- Business Insight Generation
+- Dashboard & Report Creation
+- PDF Report Automation
+
+Each project includes:
+- Dataset
+- Jupyter Notebook
+- Visualizations
+- PDF Report
+- Business Recommendations
+
+---
+
+# 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- FPDF2
+- Jupyter Notebook
+
+---
+
+# 📁 Portfolio Structure
+
+data_analysis_portfolio/
+│
+├── README.md
+├── requirements.txt
+│
+├── datasets/
+│   ├── supermarket_sales.csv
+│   ├── student_performance.csv
+│   ├── weather_data.csv
+│   ├── covid_data.csv
+│   └── stock_market.csv
+│
+├── notebooks/
+│   ├── project1_sales_analysis.ipynb
+│   ├── project2_student_analysis.ipynb
+│   ├── project3_weather_analysis.ipynb
+│   ├── project4_healthcare_analysis.ipynb
+│   └── project5_finance_analysis.ipynb
+│
+├── reports/
+│   ├── supermarket_report.pdf
+│   ├── student_report.pdf
+│   ├── weather_report.pdf
+│   ├── healthcare_report.pdf
+│   └── finance_report.pdf
+│
+├── visualizations/
+│
+└── src/
+    ├── data_cleaning.py
+    ├── visualization.py
+    └── report_generator.py
+
+---
+
+# 📚 Projects Included
+
+---
+
+# 🛒 Project 1: Supermarket Sales Analysis
+
+## 📌 Objective
+Analyze supermarket sales data to identify:
+- Best-selling products
+- Sales trends
+- Customer behavior
+- Revenue insights
+
+## 📊 Analysis Performed
+- Daily sales analysis
+- Product category performance
+- Customer spending behavior
+- Weekend vs weekday sales
+
+## 📈 Visualizations
+- Sales trend charts
+- Product category bar charts
+- Revenue distribution plots
+
+## 💡 Business Insights
+- Electronics generated highest revenue
+- Weekend sales were significantly higher
+- Evening shopping hours showed peak activity
+
+---
+
+# 🎓 Project 2: Student Performance Analysis
+
+## 📌 Objective
+Analyze student academic performance and attendance patterns.
+
+## 📊 Analysis Performed
+- Subject-wise performance analysis
+- Attendance vs marks correlation
+- Pass/fail rate calculation
+- Top performer identification
+
+## 📈 Visualizations
+- Score distribution charts
+- Attendance correlation plots
+- Subject comparison charts
+
+## 💡 Insights
+- Higher attendance improved student performance
+- Mathematics had the highest failure rate
+- Female students performed consistently better
+
+---
+
+# 🌦️ Project 3: Weather Data Analysis
+
+## 📌 Objective
+Study weather trends and seasonal climate patterns.
+
+## 📊 Analysis Performed
+- Temperature trend analysis
+- Rainfall distribution
+- Seasonal comparisons
+- Extreme weather detection
+
+## 📈 Visualizations
+- Temperature trend graphs
+- Rainfall histograms
+- Seasonal boxplots
+
+## 💡 Insights
+- Summer temperatures showed increasing trends
+- Rainfall peaked during monsoon season
+- Winter temperatures remained stable
+
+---
+
+# 🏥 Project 4: Healthcare / COVID-19 Analysis
+
+## 📌 Objective
+Analyze COVID-19 case trends and recovery patterns.
+
+## 📊 Analysis Performed
+- Daily case tracking
+- Recovery rate analysis
+- Death rate monitoring
+- Vaccination progress analysis
+
+## 📈 Visualizations
+- COVID trend charts
+- Recovery rate graphs
+- State-wise case comparisons
+
+## 💡 Insights
+- Recovery rates improved over time
+- Vaccination reduced severe cases
+- Major cities reported highest infections
+
+---
+
+# 📈 Project 5: Finance Stock Market Analysis
+
+## 📌 Objective
+Analyze historical stock market performance and investment trends.
+
+## 📊 Analysis Performed
+- Stock price trend analysis
+- Moving average calculation
+- Daily return analysis
+- Trading volume analysis
+- Volatility measurement
+
+## 📈 Visualizations
+- Stock closing price trends
+- Moving average charts
+- Daily returns distribution
+- Volume analysis
+- Correlation heatmaps
+
+## 💡 Insights
+- Stock prices showed consistent growth
+- Trading volume increased steadily
+- Daily returns remained mostly positive
+
+---
+
+# 📦 Installation Guide
+
+## Step 1: Clone Repository
+
+```bash
+git clone <your-github-repository-link>
