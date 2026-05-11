@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+notebook
+fpdf2
+scipy
+scikit-learn
+openpyxl
+plotly
+mplfinance
+streamlit
